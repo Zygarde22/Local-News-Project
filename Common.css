@@ -1,0 +1,25 @@
+/* General Reset and Shared Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Common Styles for Layout, Header, Footer, and Navigation */
+header {
+    background-color: #838a23;
+    color: rgb(155, 0, 245);
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+footer {
+    background-color: #4B0082;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

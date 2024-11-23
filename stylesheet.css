@@ -1,0 +1,124 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Root Variables for Colors and Fonts */
+:root {
+    --primary-color: #4B0082;
+    --secondary-color: #FFD700;
+    --accent-color: #228B22;
+    --background-color: #F8F4EA;
+    --text-color: #333333;
+    --font-primary: 'Georgia', serif;
+    --font-secondary: 'Arial', sans-serif;
+}
+
+/* Body Styling */
+body {
+    font-family: var(--font-primary);
+    color: var(--text-color);
+    background-color: var(--background-color);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+}
+
+nav a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: var(--accent-color);
+}
+
+/* Image Section Styling */
+#image-section {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#french-quarter-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* News Feed Section Styling */
+#news-feed {
+    margin-top: 20px;
+}
+
+#news-feed h2 {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+#rss-feed {
+    list-style: none;
+    padding: 0;
+}
+
+#rss-feed li {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+#rss-feed a {
+    color: var(--primary-color);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#rss-feed a:hover {
+    color: var(--accent-color);
+}
+
+/* Footer Section */
+footer {
+    background-color: var(--primary-color);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    #french-quarter-img {
+        max-width: 100%;
+        height: auto;
+    }
+}

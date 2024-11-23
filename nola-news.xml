@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>www.theadvocate.com - RSS Results in baton_rouge/news*,baton_rouge/opinion*,baton_rouge/sports*,new_orleans/sports/saints of type article</title>
+        <link>https://www.theadvocate.com/search/?q=&amp;t=article&amp;l=35&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;c%5b%5d=baton_rouge/news*,baton_rouge/opinion*,baton_rouge/sports*,new_orleans/sports/saints&amp;nk=%23tncen&amp;f=rss</link>
+        <atom:link href="https://www.theadvocate.com/search/?q=&amp;t=article&amp;l=35&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;c%5b%5d=baton_rouge/news*,baton_rouge/opinion*,baton_rouge/sports*,new_orleans/sports/saints&amp;nk=%23tncen&amp;f=rss" rel="self" type="application/rss+xml" />
+        <description>
+		www.theadvocate.com - RSS Results
+		in section(s) baton_rouge/news*,baton_rouge/opinion*,baton_rouge/sports*,new_orleans/sports/saints
+		only for asset type(s) of article
+	</description>
+        <generator>TNCMS 1.83.1</generator>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <ttl>30</ttl>
+
+        <item>
+            <title>'A privilege': New generators will help Baton Rouge senior community weather future storms</title>
+            <description>The senior living community Cypress Pinchback partnered with Entergy to install two brand-new backup generators to provide reliable power for vulnerable seniors during outages.</description>
+            <pubDate>Fri, 22 Nov 2024 08:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/de560b32-a790-11ef-bb40-33a872202f6c</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/baton-rouge-senior-facility-installs-backup-generators-for-storms/article_de560b32-a790-11ef-bb40-33a872202f6c.html</link>
+            <dc:creator>BY HALEY MILLER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/f/52/f52a5fcf-4ecc-578d-9886-199649fd968e/673e63d0d96bc.image.jpg?resize=300%2C200" length="358353" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Fair Grounds 2024-2025 meet preview: 5 trainers to watch</title>
+            <description>The 153rd racing season at the Fair Grounds will begin on Friday at the historic race course in Gentilly. A look at some top trainers to watch at the 2024-2025 meet:</description>
+            <pubDate>Fri, 22 Nov 2024 08:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/05f637e4-1550-5b83-b554-0dd571ac3b93</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/5-trainers-to-watch-at-2024-2025-fair-grounds-race-meet/article_05f637e4-1550-5b83-b554-0dd571ac3b93.html</link>
+            <dc:creator>BY JEFF DUNCAN | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/ed/2ed918e7-6405-5c9d-93af-a6038274d8fe/673b8b4d91425.image.jpg?resize=300%2C200" length="225341" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Cross-country state results, volleyball district honors announced</title>
+            <description>State cross-country results and all-district volleyball teams have been announced, and Ascension Parish is well-represented.</description>
+            <pubDate>Fri, 22 Nov 2024 08:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ce3ce704-a75c-11ef-8111-3ff9e94e559a</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/communities/ascension/cross-country-state-results-volleyball-district-honors-announced/article_ce3ce704-a75c-11ef-8111-3ff9e94e559a.html</link>
+            <dc:creator>BY TROY LeBOEUF | Contributing writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/fd/cfd5dd4a-9f92-11ef-8d2e-47252a62ab5c/654d2ea69ca18.image.jpg?resize=300%2C194" length="258469" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Time to appreciate the hard work of area athletes</title>
+            <description>With the Thanksgiving holiday already here and Christmas just around the corner, it's a good time to appreciate the work that Livingston Parish athletes put into their chosen sports.</description>
+            <pubDate>Fri, 22 Nov 2024 08:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/f3a0c6b0-a76a-11ef-833b-037388e4a7bd</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/live-oak-advances-to-lhsaa-softball-tourney-with-13-1-win/article_f3a0c6b0-a76a-11ef-833b-037388e4a7bd.html</link>
+            <dc:creator>BY CHARLES SALZER | Contributing writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/8/c0/8c0d2375-eb9a-50c0-b040-80b51a471f4d/673e29e18a316.image.jpg?resize=300%2C410" length="49876" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Swifties create memories and friendship bracelets at library program</title>
+            <description>Taylor Swift fans shared their love of the musician and her music Nov. 15 during a Swiftie party at the West Feliciana Parish Library.</description>
+            <pubDate>Fri, 22 Nov 2024 07:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/517922c8-a5e5-11ef-90d9-2bf96151c687</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/communities/st_francisville/swifties-create-memories-and-friendship-bracelets-at-library-program/article_517922c8-a5e5-11ef-90d9-2bf96151c687.html</link>
+            <dc:creator>BY MELINDA RAWLS HOWELL | Contributing writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/d0/1d0f4c28-f7b6-57ff-9791-8bafca785717/673d167f1df21.image.jpg?resize=300%2C213" length="354317" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Saints roundtable: Biggest surprise, disappointment, grading Darren Rizzi, team MVPs</title>
+            <description>The Saints are on their bye week after having won two straight games to improve to 4-7. It’s the perfect time for us to gather around the roundtable and discuss the Saints season thus far and also to take a&#8230;</description>
+            <pubDate>Fri, 22 Nov 2024 07:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/95e95959-20e4-5b6b-812e-1dc2ff4f5244</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/saints/biggest-saints-surprise-grading-darren-rizzi-team-mvps/article_95e95959-20e4-5b6b-812e-1dc2ff4f5244.html</link>
+            <dc:creator>BY JEFF DUNCAN, LUKE JOHNSON, MATTHEW PARAS and ROD WALKER</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/6b/26b6e48a-12cf-5c17-a52e-f6a444e32569/6730f05348f2b.image.jpg?resize=300%2C220" length="192515" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Scott Rabalais: LSU desperate for win over Vanderbilt to end its month of misery</title>
+            <description>It’s been a month of misery for LSU football.</description>
+            <pubDate>Fri, 22 Nov 2024 06:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/faf6b5cf-ad88-5a34-bdf3-d35af141306c</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/scott-rabalais-lsu-vanderbilt-brian-kelly-bryce-underwood-misery/article_faf6b5cf-ad88-5a34-bdf3-d35af141306c.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/5/cb/5cb966a1-6cee-5f9e-b59c-28a9cb047ac0/67393f6529272.image.jpg?crop=848%2C478%2C292%2C117&amp;resize=300%2C169&amp;order=crop%2Cresize" length="400687" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Grading the Saints: Across the board, the Saints defense has taken a step back in 2024</title>
+            <description>It is hard to look at much of what New Orleans has been defensively this season and call it anything but a failure. Across the board, the Saints have taken a big step back on this side of the ball.</description>
+            <pubDate>Fri, 22 Nov 2024 06:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/fe434c65-0991-516b-ac9a-cc7270e3dab0</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/saints/saints-report-card-defense-has-taken-a-step-back-in-2024/article_fe434c65-0991-516b-ac9a-cc7270e3dab0.html</link>
+            <dc:creator>BY LUKE JOHNSON | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/07/d073037b-f62e-576d-a425-a78080d0ad8e/670c3f81ad476.image.jpg?resize=300%2C214" length="226062" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Fair Grounds 2024-2025 meet preview: 5 jockeys to watch</title>
+            <description>The 153rd racing season at the Fair Grounds will begin on Friday at the historic race course in Gentilly. A look at some top jockeys to watch at the 2024-2025 meet:</description>
+            <pubDate>Fri, 22 Nov 2024 06:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/8e877a2a-0326-542d-92be-2e648eb9d7c5</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/jockeys-to-watch-at-the-2024-2025-fair-grounds-race-meet/article_8e877a2a-0326-542d-92be-2e648eb9d7c5.html</link>
+            <dc:creator>BY JEFF DUNCAN | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/27/22702fbf-6cfc-514c-9df3-24d56989f774/673b556335458.image.jpg?resize=300%2C200" length="77416" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Breaking down what went wrong with LSU's offense and if the Tigers can fix their issues</title>
+            <description>Midway through the season, LSU's offense produced despite its issues.</description>
+            <pubDate>Fri, 22 Nov 2024 05:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/1ead1062-73eb-5281-bff6-45c7c05ee732</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-football-offense-joe-sloan-brian-kelly/article_1ead1062-73eb-5281-bff6-45c7c05ee732.html</link>
+            <dc:creator>BY WILSON ALEXANDER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/3/5a/35aceb68-2892-58e7-a7fe-00e6dfde3dd0/67391aae4380c.image.jpg?crop=1295%2C730%2C28%2C72&amp;resize=300%2C169&amp;order=crop%2Cresize" length="381274" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Who ya got? Our LSU beat team weighs in on whether the Tigers pick up the pieces vs. Vandy</title>
+            <description>Check out our staff picks for LSU's game Saturday (6:45 p.m., SEC Network) in Tiger Stadium against Vanderbilt:</description>
+            <pubDate>Fri, 22 Nov 2024 04:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/38c6129c-191d-5a46-aaa5-fd74c9a31c9e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/who-ya-got-lsu-vanderbilt-advocate-staff-picks-sec/article_38c6129c-191d-5a46-aaa5-fd74c9a31c9e.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/65/d659a514-1a88-58b9-84f5-9bd532d879f7/67393f723bc3e.image.jpg?crop=1532%2C863%2C26%2C109&amp;resize=300%2C169&amp;order=crop%2Cresize" length="465399" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Guest column: Trump must unleash American energy potential including on Gulf Coast</title>
+            <description>As voters have spoken and elected Donald Trump back into office, there will now be a large push to solidify the administration’s policies and goals, particularly around energy and infrastructure.</description>
+            <pubDate>Fri, 22 Nov 2024 04:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/47f691fa-f0b5-5d13-85a3-4ba28d6da5b6</guid>
+            <link>https://www.theadvocate.com/baton_rouge/opinion/guest-column-trump-must-unleash-american-energy-potential-including-on-gulf-coast/article_47f691fa-f0b5-5d13-85a3-4ba28d6da5b6.html</link>
+            <dc:creator>BY CHARLIE MELANCON</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/42/04232af7-5825-50cf-8c63-f794e10c8fda/673f9bf7cea0d.image.jpg" length="7372" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Guest column: Proposed amendment risks politicizing discipline for judges</title>
+            <description>As former members of the Judiciary Commission of Louisiana, we urge voters to carefully consider the proposed Constitutional Amendment 1 that seeks to alter the makeup of this vital body.</description>
+            <pubDate>Fri, 22 Nov 2024 04:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/c9bd706b-d1d5-56df-a2e9-bc85290ad2f8</guid>
+            <link>https://www.theadvocate.com/baton_rouge/opinion/politics-courts-crime-judges/article_c9bd706b-d1d5-56df-a2e9-bc85290ad2f8.html</link>
+            <dc:creator>BY ED WALTERS AND ROBIN GIARUSSO</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/b/f7/bf739c79-00fd-5d86-8002-1c861f82acc7/65eba9e347868.image.jpg?resize=300%2C180" length="40514" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Guest column: Regardless of who's in DC, states still have power to fight climate change</title>
+            <description>On the Wednesday afternoon following Election Day, I taught my environmental studies course at Tulane University. After debriefing the election results and fielding some questions about what it would all mean for fighting climate change and for our nation’s energy&#8230;</description>
+            <pubDate>Fri, 22 Nov 2024 04:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/8e61e26d-969e-5e41-8413-2749cbc7974e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/opinion/politics-climate-energy-louisiana/article_8e61e26d-969e-5e41-8413-2749cbc7974e.html</link>
+            <dc:creator>BY JOSHUA BASSECHES</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/e/78/e78056a6-14bc-5d62-ab51-b1170a6006b0/673f9bfad1063.image.jpg?resize=300%2C200" length="122525" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Guest column: Eric Paulsen may be gone, but his TV legacy will go on</title>
+            <description>My first assignment at WWL-TV in 1987 was to clean the newsroom.</description>
+            <pubDate>Fri, 22 Nov 2024 04:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ec9d6f0f-8544-58f2-9044-29e2327efdb8</guid>
+            <link>https://www.theadvocate.com/baton_rouge/opinion/tv-wwl-eric-paulsen-new-orleans-media/article_ec9d6f0f-8544-58f2-9044-29e2327efdb8.html</link>
+            <dc:creator>BY ANDREAS PRUESS</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/9d/19def138-c381-5436-a321-d7e397d274af/673f9bfcca1ff.image.jpg?resize=300%2C200" length="122059" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>What are AI data centers? Here's how the planned Meta facility in Louisiana could work.</title>
+            <description>Meta, Facebook's parent company, is planning to build a massive artificial intelligence data center in north Louisiana, a first of its kind for the state.</description>
+            <pubDate>Fri, 22 Nov 2024 04:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/8bb53e9c-00ff-5d25-a2b3-4d803555e6b5</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/environment/what-are-ai-data-centers-louisiana/article_8bb53e9c-00ff-5d25-a2b3-4d803555e6b5.html</link>
+            <dc:creator>By JULIA GUILBEAU and JOSIE ABUGOV | Staff writers</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/da/6da26729-3a15-5aeb-8f0f-ae8a0d525189/673fb91d7f235.image.jpg?resize=300%2C200" length="397802" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Bryce Underwood has decommitted from LSU. What does this mean for the Tigers moving forward?</title>
+            <description>With its College Football Playoff hopes in the rearview mirror, LSU fans at least had hope for the future.</description>
+            <pubDate>Fri, 22 Nov 2024 04:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/f013ccdc-c81d-5018-9e44-9e603436179e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/bryce-underwood-lsu-football-garrett-nussmeier-brian-kelly/article_f013ccdc-c81d-5018-9e44-9e603436179e.html</link>
+            <dc:creator>BY KOKI RILEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/a1/1a1b2a1d-6aec-5764-a08d-f18e3eff95c3/6599dcac56ff8.image.jpg?crop=1659%2C935%2C14%2C52&amp;resize=300%2C169&amp;order=crop%2Cresize" length="320902" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>The Istrouma-Haynes winner advanced to the quarterfinals with several explosive plays</title>
+            <description>Istrouma was looking to reach the quarterfinals for the first time since 2003 but had to get past a physical Haynes team in a Division II select second round playoff matchup.</description>
+            <pubDate>Thu, 21 Nov 2024 22:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/a4ac445b-c0ac-5c2b-a59f-bbaed762b148</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/high_scools/istrouma-advances-to-quarterfinals-for-first-time-since-2003/article_a4ac445b-c0ac-5c2b-a59f-bbaed762b148.html</link>
+            <dc:creator>BY SPENCER URQUHART | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/be/2beaa2df-00ca-5924-92ea-2dfc01933b8f/672ecbd11b307.image.jpg?crop=1577%2C887%2C8%2C8&amp;resize=300%2C169&amp;order=crop%2Cresize" length="267506" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>After multiple runner-up finishes, a BR team won Division III swim title. See how</title>
+            <description>Have you ever heard of a swimming triple-double? Episcopal proved it is a thing.</description>
+            <pubDate>Thu, 21 Nov 2024 20:54:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ca699994-a87c-11ef-ae3e-3f55157ef072</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/high_schools/three-double-winners-help-ehs-win-diii-girls-swim-title/article_ca699994-a87c-11ef-ae3e-3f55157ef072.html</link>
+            <dc:creator>Staff report</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/c4/2c497b95-a825-55de-90d0-bc8e23d09f5c/6726aaa3d0359.image.jpg?resize=300%2C228" length="290384" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Brian Kelly updates LSU's offensive line injury situation ahead of game vs. Vanderbilt</title>
+            <description>Coach Brian Kelly said Thursday on his weekly radio show that LSU is "pretty confident" right guard Miles Frazier will play on Saturday against Vanderbilt.</description>
+            <pubDate>Thu, 21 Nov 2024 20:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/fa206086-6997-5e08-a064-e311e22152e5</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-football-miles-frazier-garrett-dellinger-vanderbilt/article_fa206086-6997-5e08-a064-e311e22152e5.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/6e/16ebd3ff-b9c6-59fe-9b88-94b3d9ca8fde/67391b269d469.image.jpg?crop=1106%2C623%2C451%2C86&amp;resize=300%2C169&amp;order=crop%2Cresize" length="458235" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LHSAA Division I swim titles on line for two Baton Rouge powers. Check out possibilities</title>
+            <description>Could it be titles for two once again for St. Joseph’s Academy and Catholic High in Division I at the LHSAA state swim meet?</description>
+            <pubDate>Thu, 21 Nov 2024 19:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/1106f9c8-a823-11ef-9e7e-87e85594f879</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/high_schools/st-josephs-seeks-14th-straight-title-catholic-favored-too/article_1106f9c8-a823-11ef-9e7e-87e85594f879.html</link>
+            <dc:creator>BY ROBIN FAMBROUGH | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/e0/6e0471f8-5952-592e-9257-cc041db2fb71/67270f4b7643f.image.jpg?resize=300%2C229" length="385050" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Planning to vote in the Dec. 7 election? Here are the ballots in the Baton Rouge region.</title>
+            <description>Here's what's on the ballot in the Baton Rouge region</description>
+            <pubDate>Thu, 21 Nov 2024 19:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/90801db8-a500-11ef-a78f-53ad709f5c35</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/planning-to-vote-in-the-dec-7-election-here-are-the-ballots-in-the-baton/article_90801db8-a500-11ef-a78f-53ad709f5c35.html</link>
+            <dc:creator>BY VICKI FERSTEL | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/9/a0/9a0bc36b-c1f9-5a51-ad5f-2ad7be0b7574/672be9800bcdc.image.jpg?resize=300%2C209" length="352161" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Legislature has finalized details on Jeff Landry's tax plan. Final votes expected Friday.</title>
+            <description>The state Legislature has settled on the final details of Gov. Jeff Landry’s tax package, but adjourned Thursday night without taking any action because staff members were still drafting the final language of the various bills.</description>
+            <pubDate>Thu, 21 Nov 2024 19:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/8ed6a692-d23b-5539-9f85-77b6c7905532</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/state-legislators-finalize-details-on-jeff-landrys-tax-plan/article_8ed6a692-d23b-5539-9f85-77b6c7905532.html</link>
+            <dc:creator>BY TYLER BRIDGES | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/bc/cbcb0272-c4d4-56fe-9a2c-21b431e3108d/67353da97b34b.image.jpg?resize=300%2C305" length="414443" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Robin Fambrough: It's time to put the focus back on field as playoffs enter Week 2</title>
+            <description>All the cards are finally on the table. Act II of the LHSAA football playoffs commands center stage Friday night.</description>
+            <pubDate>Thu, 21 Nov 2024 18:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/a8c3c2ec-a822-11ef-b18b-ab1ea369ca63</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/high_schools/its-time-to-focus-where-it-belongs----on-football-playoffs/article_a8c3c2ec-a822-11ef-b18b-ab1ea369ca63.html</link>
+            <dc:creator>BY ROBIN FAMBROUGH | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/8/a2/8a25b97c-bde3-5614-9f81-93364570282b/6713119071f2e.image.jpg?crop=1461%2C823%2C0%2C73&amp;resize=300%2C169&amp;order=crop%2Cresize" length="353405" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>After changes, Baton Rouge school leaders approve new internet use rules</title>
+            <description>New internet rules for Baton Rouge students and employees were approved Thursday, but only after the removal of a few provisions that raised questions, including a broad restriction on taking and sharing photos and videos.</description>
+            <pubDate>Thu, 21 Nov 2024 18:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/560153c4-a833-11ef-8483-e31d7630bef4</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/education/baton-rouge-school-leaders-approve-new-internet-use-rules/article_560153c4-a833-11ef-8483-e31d7630bef4.html</link>
+            <dc:creator>BY CHARLES LUSSIER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/7c/77c521aa-50b4-5db1-96db-0fd708b43ddf/66cde7bb6c3c6.image.jpg?resize=300%2C171" length="82512" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Early voting for the Dec. 7 election begins Friday. See what's at stake in Baton Rouge.</title>
+            <description>Early voting for the Dec. 7 election opens Friday, with multiple Baton Rouge-area races and statewide amendments to be decided.</description>
+            <pubDate>Thu, 21 Nov 2024 17:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/773bcfd8-a85b-11ef-82f2-277175517950</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/elections/early-voting-for-the-dec-7-election-begins-friday-see-whats-at-stake-in-baton/article_773bcfd8-a85b-11ef-82f2-277175517950.html</link>
+            <dc:creator>Staff report</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/74/7748e9e8-296e-5116-9fb6-755082916521/668c3bf91790d.image.jpg?resize=300%2C199" length="188781" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>In death penalty case, state Supreme Court denies Baton Rouge man's request for new judge</title>
+            <description>A man facing execution if he is convicted of a brutal triple murder had his motion for a new trial judge denied by a split Louisiana Supreme Court this week.</description>
+            <pubDate>Thu, 21 Nov 2024 17:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/0c0931c6-a845-11ef-9031-a7069a1f3dd6</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/courts/supreme-court-says-judge-can-keep-baton-rouge-capital-case/article_0c0931c6-a845-11ef-9031-a7069a1f3dd6.html</link>
+            <dc:creator>BY MATT BRUCE | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/ee/dee3ba5e-e48b-50cf-8782-a8de26235bbe/6511b34430dfb.image.jpg?resize=300%2C215" length="469820" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LSU football has lost its commitment from the No. 1 overall player in the Class of 2025</title>
+            <description>Five-star quarterback Bryce Underwood, the No. 1 overall player in the Class of 2025, has decommitted from LSU and has committed to Michigan instead, he announced on social media Thursday.</description>
+            <pubDate>Thu, 21 Nov 2024 17:31:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/4109a220-5a7d-5420-8119-70c870b62e0a</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/bryce-underwood-michigan-lsu-brian-kelly-sherrone-moore/article_4109a220-5a7d-5420-8119-70c870b62e0a.html</link>
+            <dc:creator>BY KOKI RILEY and WILSON ALEXANDER | Staff writers</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/61/761582e1-8594-5c82-a95a-7e329525ef48/673fc360c9af3.image.jpg?crop=1180%2C665%2C167%2C16&amp;resize=300%2C169&amp;order=crop%2Cresize" length="393703" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Keys to LSU men’s basketball beating Pittsburgh, its toughest nonconference foe this season</title>
+            <description>Pittsburgh (5-0) is not only LSU men’s basketball’s toughest opponent thus far this season. The 1:30 p.m. neutral-site contest Friday could be LSU’s biggest nonconference game all season.</description>
+            <pubDate>Thu, 21 Nov 2024 16:50:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/66f4dbab-4de9-566d-b48d-9b38a0acd31a</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/keys-to-lsu-mens-basketball-beating-pittsburgh/article_66f4dbab-4de9-566d-b48d-9b38a0acd31a.html</link>
+            <dc:creator>BY TOYLOY BROWN III | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/f/9e/f9ee34bb-d61d-5e87-8872-7e3e7124976a/673d47c67cb7c.image.jpg?resize=300%2C250" length="270486" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>New Orleans Pelicans could be getting some injury relief as soon as Friday's game</title>
+            <description>The New Orleans Pelicans could be getting help at guard soon.</description>
+            <pubDate>Thu, 21 Nov 2024 16:27:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/0da2e5ba-283e-5be1-b0f3-d4c1b5381cf4</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/pelicans/jordan-hawkins-upgraded-to-questionable-for-pelicans/article_0da2e5ba-283e-5be1-b0f3-d4c1b5381cf4.html</link>
+            <dc:creator>BY CHRISTIAN CLARK | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/4/e9/4e9dd9b6-6569-5f62-a2b0-fe9e14c33d6b/67265049c740d.image.jpg?resize=300%2C230" length="260710" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Around 3,000 South Vacherie residents lost gas overnight Wednesday. Here's what we know.</title>
+            <description>Around 1,000 South Vacherie residents lost natural gas service Wednesday night after a test caused disruptions, according to the St. James Parish government.</description>
+            <pubDate>Thu, 21 Nov 2024 16:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/b89ad48c-a852-11ef-80c3-8703559f0b6e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/environment/vacherie-natural-gas-outage/article_b89ad48c-a852-11ef-80c3-8703559f0b6e.html</link>
+            <dc:creator>BY CHRISTOPHER CARTWRIGHT | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/85/08510472-5586-11ee-8a0b-7ffd795b846b/65074200d1e23.image.jpg?resize=300%2C225" length="312459" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Want results from LHSAA's swim meet finals. Here are top Division III, IV finishers</title>
+            <description>At SPAR Aquatic Center-Sulphur</description>
+            <pubDate>Thu, 21 Nov 2024 15:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/a2e22d2c-a823-11ef-887b-bf3d19a17a77</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/high_schools/want-results-from-lhsaas-swim-meet-finals-here-are-top-division-iii-iv-finishers/article_a2e22d2c-a823-11ef-887b-bf3d19a17a77.html</link>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/71/071297f8-532d-11ed-b168-23b6017fad0a/6355d2b8ac5ec.image.jpg?resize=300%2C200" length="347279" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Jail escapee found hiding in closet with gun, Tangipahoa sheriff says</title>
+            <description>A prisoner who had escaped from the Tangipahoa Parish Jail and been on the run since May was found by sheriff's deputies Wednesday as they searched a Hammond-area apartment believed to be connected to a shooting the day before.</description>
+            <pubDate>Thu, 21 Nov 2024 15:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ef7fc35e-c789-55db-9fa1-f70d21e49aa2</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/crime_police/tangipahoa-jail-escapee-caught-hiding-in-closet-wth-gun/article_ef7fc35e-c789-55db-9fa1-f70d21e49aa2.html</link>
+            <dc:creator>BY BOB WARREN | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/b1/db1c7598-0d26-5952-bd90-25baebcf0a0f/654d35c6a43fa.image.jpg?resize=300%2C165" length="350427" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>U.S. gymnastics championships headed to New Orleans in 2025. Here are the details.</title>
+            <description>The nation’s premier gymnastics event is heading to New Orleans.</description>
+            <pubDate>Thu, 21 Nov 2024 15:07:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/593bdf4b-e4af-57e4-84cc-1bf446751ae1</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/usa-gymnastics-championships-new-orleans-august-2025-smoothie-king-center/article_593bdf4b-e4af-57e4-84cc-1bf446751ae1.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/c5/6c582003-4859-5910-9349-dddf1cb8d427/6600a147b9cde.image.jpg?resize=300%2C242" length="328852" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LSU women getting a lift off the bench from a transfer forward who sat all of last season</title>
+            <description>On Wednesday, the LSU women's basketball team needed a spark on offense so it could match the long-range shooting groove that Tulane had found at the other end.</description>
+            <pubDate>Thu, 21 Nov 2024 15:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/dc437bda-41c2-540c-bd9f-758670eed6ec</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-jersey-wolfenbarger-kim-mulkey/article_dc437bda-41c2-540c-bd9f-758670eed6ec.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/a5/6a554ecb-7ece-5e75-889a-71b1fa3fa31d/6729c09800c67.image.jpg?crop=1163%2C656%2C130%2C28&amp;resize=300%2C169&amp;order=crop%2Cresize" length="317960" type="image/jpeg" />
+        </item>
+
+    </channel>
+</rss>

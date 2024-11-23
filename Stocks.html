@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Prices</title>
+    <link rel="stylesheet" href="Common.css">
+    <link rel="stylesheet" href="stocks.css">
+</head>
+<body>
+    <header>
+        <h1>Stock Prices</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="sports.html">Saints Scores</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Table Section -->
+    <main>
+        <section id="stock-prices">
+            <h2>Live Stock Prices</h2>
+            <section id="image-section">
+                <!-- Inserting the French Quarter Image -->
+                <img src="stocks.jpeg" alt="The French Quarter" id="french-quarter-img">
+            </section>
+
+            <!-- Stock Prices Table -->
+            <table id="stocks-table">
+                <thead>
+                    <tr>
+                        <th>Company</th>
+                        <th>Symbol</th>
+                        <th>Price</th>
+                        <th>Change</th>
+                        <th>Volume</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Google</td>
+                        <td>GOOG</td>
+                        <td>$2,200.15</td>
+                        <td>+1.25%</td>
+                        <td>1.2M</td>
+                    </tr>
+                    <tr>
+                        <td>Apple</td>
+                        <td>AAPL</td>
+                        <td>$150.40</td>
+                        <td>-0.50%</td>
+                        <td>2.5M</td>
+                    </tr>
+                    <tr>
+                        <td>Amazon</td>
+                        <td>AMZN</td>
+                        <td>$3,100.55</td>
+                        <td>+0.80%</td>
+                        <td>1.1M</td>
+                    </tr>
+                    <tr>
+                        <td>Microsoft</td>
+                        <td>MSFT</td>
+                        <td>$280.90</td>
+                        <td>+0.15%</td>
+                        <td>3.3M</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="stock-prices.js"></script>
+</body>
+</html>

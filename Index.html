@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local New Orleans News</title>
+    <link rel="stylesheet" href="Index.css">
+    <link rel="stylesheet" href="Common.css"
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Local New Orleans News</h1>
+        <nav>
+            <ul>
+                <li><a href="sports.html">Saints Scores & Plays</a></li>
+                <li><a href="stocks.html">Stock Prices</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <section id="image-section">
+            <!-- Inserting the French Quarter Image -->
+            <img src="neworleans.jpeg" alt="The French Quarter" id="french-quarter-img">
+        </section>
+
+        <section id="news-feed">
+            <h2>Latest News from NOLA.com</h2>
+            <ul id="rss-feed">
+                <!-- RSS feed content will be dynamically inserted here -->
+            </ul>
+        </section>
+    </main>
+
+    <script src="rss-feed.js"></script>
+</body>
+</html>

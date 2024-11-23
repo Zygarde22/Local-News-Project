@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>www.theadvocate.com - RSS Results in new_orleans/news*,baton_rouge/news/politics/legislature,baton_rouge/news/politics,new_orleans/opinion*,baton_rouge/opinion/stephanie_grace,baton_rouge/opinion/jeff_sadow,ba ton_rouge/opinion/mark_ballard,new_orleans/sports*,baton_rouge/sports/lsu of type article</title>
+        <link>https://www.theadvocate.com/search/?q=&amp;t=article&amp;l=35&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;c%5b%20%5d=new_orleans/news*,baton_rouge/news/politics/legislature,baton_rouge/news/politics,new_orleans/opinion*,baton_rouge/opinion/stephanie_grace,baton_rouge/opinion/jeff_sadow,ba%20ton_rouge/opinion/mark_ballard,new_orleans/sports*,baton_rouge/sports/lsu&amp;nk=%23tncen&amp;f=rss</link>
+        <atom:link href="https://www.theadvocate.com/search/?q=&amp;t=article&amp;l=35&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;c%5b%20%5d=new_orleans/news*,baton_rouge/news/politics/legislature,baton_rouge/news/politics,new_orleans/opinion*,baton_rouge/opinion/stephanie_grace,baton_rouge/opinion/jeff_sadow,ba%20ton_rouge/opinion/mark_ballard,new_orleans/sports*,baton_rouge/sports/lsu&amp;nk=%23tncen&amp;f=rss" rel="self" type="application/rss+xml" />
+        <description>
+		www.theadvocate.com - RSS Results
+		in section(s) new_orleans/news*,baton_rouge/news/politics/legislature,baton_rouge/news/politics,new_orleans/opinion*,baton_rouge/opinion/stephanie_grace,baton_rouge/opinion/jeff_sadow,ba ton_rouge/opinion/mark_ballard,new_orleans/sports*,baton_rouge/sports/lsu
+		only for asset type(s) of article
+	</description>
+        <generator>TNCMS 1.83.1</generator>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <ttl>30</ttl>
+
+        <item>
+            <title>LSU football has lost its commitment from the No. 1 overall player in the Class of 2025 to Michigan</title>
+            <description>Five-star quarterback Bryce Underwood, the No. 1 overall player in the Class of 2025, has decommitted from LSU and has committed to Michigan instead, he announced on social media Thursday.</description>
+            <pubDate>Thu, 21 Nov 2024 17:31:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/4109a220-5a7d-5420-8119-70c870b62e0a</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/bryce-underwood-michigan-lsu-brian-kelly-sherrone-moore/article_4109a220-5a7d-5420-8119-70c870b62e0a.html</link>
+            <dc:creator>BY KOKI RILEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/61/761582e1-8594-5c82-a95a-7e329525ef48/673fc360c9af3.image.jpg?crop=1180%2C665%2C167%2C16&amp;resize=300%2C169&amp;order=crop%2Cresize" length="393703" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>U.S. gymnastics championships headed to New Orleans in 2025. Here are the details.</title>
+            <description>The nation’s premier gymnastics event is heading to New Orleans.</description>
+            <pubDate>Thu, 21 Nov 2024 15:07:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/593bdf4b-e4af-57e4-84cc-1bf446751ae1</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/usa-gymnastics-championships-new-orleans-august-2025-smoothie-king-center/article_593bdf4b-e4af-57e4-84cc-1bf446751ae1.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/c5/6c582003-4859-5910-9349-dddf1cb8d427/6600a147b9cde.image.jpg?resize=300%2C242" length="328852" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LSU women getting a lift off the bench from a transfer forward who sat all of last season</title>
+            <description>On Wednesday, the LSU women's basketball team needed a spark on offense so it could match the long-range shooting groove that Tulane had found at the other end.</description>
+            <pubDate>Thu, 21 Nov 2024 15:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/dc437bda-41c2-540c-bd9f-758670eed6ec</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-jersey-wolfenbarger-kim-mulkey/article_dc437bda-41c2-540c-bd9f-758670eed6ec.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/a5/6a554ecb-7ece-5e75-889a-71b1fa3fa31d/6729c09800c67.image.jpg?crop=1163%2C656%2C130%2C28&amp;resize=300%2C169&amp;order=crop%2Cresize" length="317960" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>After sinking problems, Belle Chasse Bridge won't fully open to traffic until March, developer says</title>
+            <description>The ground beneath the bridge approaches, which connect the bridge with land, was settling at a faster rate than expected. The $6 million problem created a year delay.</description>
+            <pubDate>Thu, 21 Nov 2024 14:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/fc220f14-0e7c-56fd-b777-4d90f2026691</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/belle-chasse-bridge-project-delay-ground-settlement-march-open-plenary-americas/article_fc220f14-0e7c-56fd-b777-4d90f2026691.html</link>
+            <dc:creator>BY ALYSE PFEIL | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/76/676b6b49-f0e6-5a80-b2be-e680689b8e99/66cf9f4ff0022.image.jpg?resize=300%2C205" length="360010" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Can Saints continue magic after bye week? And Week 12 Best Bets on Dattitude, Ep. 313</title>
+            <description>Can the team continue its inspired run against stiffer competition? Will Darren Rizzi earn a way into consideration for real job? What are top plays this week?</description>
+            <pubDate>Thu, 21 Nov 2024 13:42:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/12ef8813-a73a-5741-aa3c-0ddd1a7d3273</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/betting/can-saints-continue-magic-after-bye-week-and-week-12-best-bets-on-dattitude-ep-313/article_12ef8813-a73a-5741-aa3c-0ddd1a7d3273.html</link>
+            <dc:creator>BY JIM DERRY | Dattitude Podcast Host</dc:creator>
+        </item>
+
+        <item>
+            <title>Matt Gaetz withdraws as President-elect Donald Trump's pick for attorney general</title>
+            <description>WASHINGTON — Matt Gaetz withdrew Thursday as President-elect Donald Trump's pick for attorney general following continued scrutiny over a federal sex trafficking investigation that cast doubt on his ability to be confirmed as the nation's chief federal law enforcement officer.</description>
+            <pubDate>Thu, 21 Nov 2024 12:05:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/1390373f-77c6-5fd8-a3ba-71b01450d17a</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/national_politics/matt-gaetz-trump-attorney-general/article_1390373f-77c6-5fd8-a3ba-71b01450d17a.html</link>
+            <dc:creator>BY ERIC TUCKER and ALANNA DURKIN RICHER | THE ASSOCIATED PRESS</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/e8/0e882c3f-a596-5bf7-9ea7-f5554e522c1f/673f77957c8c7.image.jpg?resize=300%2C201" length="92095" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Gov. Jeff Landry criticizes massive coastal project, saying it would 'break' Louisiana culture</title>
+            <description>Gov. Jeff Landry strongly criticized plans for an unprecedented coastal restoration project years in the works on Thursday, calling for a compromise over the Mid-Barataria Sediment Diversion, which he says would "break" parts of Louisiana's culture in its current form.</description>
+            <pubDate>Thu, 21 Nov 2024 09:29:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/11b74602-c834-58de-8a04-72faac2e89fa</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/environment/louisiana-jeff-landry-coast-land-loss-environment-sea-level-rise-climate-change/article_11b74602-c834-58de-8a04-72faac2e89fa.html</link>
+            <dc:creator>By MARK SCHLEIFSTEIN and MIKE SMITH | Staff writers</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/b5/db500eed-c1e2-5c66-aa29-cad7f6b24082/66d0c6ee242bd.image.jpg?resize=300%2C187" length="322579" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Ted James endorses Sharon Weston Broome in Baton Rouge mayor's race</title>
+            <description>Ted James has endorsed fellow Democrat Sharon Weston Broome for reelection as East Baton Rouge mayor-president, Broome's campaign manager said Thursday.</description>
+            <pubDate>Thu, 21 Nov 2024 09:26:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/0083479c-a81d-11ef-a41d-2baa64eba6bc</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/ted-james-endorses-sharon-weston-broome-in-baton-rouge/article_0083479c-a81d-11ef-a41d-2baa64eba6bc.html</link>
+            <dc:creator>BY PATRICK SLOAN-TURNER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/fd/1fdeeb27-cdd7-5d52-bdee-197c3e8708e6/66fdf502538db.image.jpg?resize=300%2C200" length="624760" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Kim Mulkey shares an update on the injury status of an LSU women's transfer guard</title>
+            <description>Coach Kim Mulkey said Wednesday that she expects sophomore guard Mjracle Sheppard to practice Friday and make her season debut during the LSU women's basketball team's trip to The Bahamas.</description>
+            <pubDate>Thu, 21 Nov 2024 05:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ea662e88-a31f-5b6d-803a-478f7ccbad22</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-mjracle-sheppard-injury-kim-mulkey/article_ea662e88-a31f-5b6d-803a-478f7ccbad22.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/7c/d7cf4b7c-4bdf-5b64-8399-651039becb86/673eb9aab8884.image.jpg?crop=1589%2C896%2C12%2C14&amp;resize=300%2C169&amp;order=crop%2Cresize" length="268559" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Can Florida keep the momentum rolling? Check out our five topics to watch across the SEC</title>
+            <description>The college football regular season is almost over.</description>
+            <pubDate>Thu, 21 Nov 2024 05:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ee272c3d-64f3-5736-8ce1-a453328c6f59</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/sec-college-football-florida-ole-miss/article_ee272c3d-64f3-5736-8ce1-a453328c6f59.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/90/d9048b27-5a02-5b67-ae8a-77e85ae737db/673e654b2105e.image.jpg?resize=300%2C244" length="189633" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Scott Rabalais: Hey LSU, stop making unnecessary changes to your classic uniform look</title>
+            <description>By now you’ve probably seen that LSU will be wearing yet another alternate uniform Saturday: white helmets with a gold jerseys and white pants. It’s the first time LSU will wear gold jerseys since 2016 and just the fifth time&#8230;</description>
+            <pubDate>Thu, 21 Nov 2024 04:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/96940c83-4f75-5978-ab81-272e4a153503</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/scott-rabalais-lsu-vanderbilt-uniform-gold-jerseys/article_96940c83-4f75-5978-ab81-272e4a153503.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/35/63536f8d-2da4-5b55-9a76-62a07bca5c8a/671dca534b7b1.image.jpg?crop=1416%2C798%2C59%2C49&amp;resize=300%2C169&amp;order=crop%2Cresize" length="322538" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Flau'jae Johnson helps LSU women thwart a couple rallies from a pesky Tulane team</title>
+            <description>For the second time in the LSU women’s basketball team’s last three games, a nonconference opponent visited the Pete Maravich Assembly Center and caught fire from 3-point range.</description>
+            <pubDate>Wed, 20 Nov 2024 21:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/e1ef4aae-ba43-541e-8bea-44bd4ed3e0f5</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-womens-basketball-tulane-flaujae-johnson/article_e1ef4aae-ba43-541e-8bea-44bd4ed3e0f5.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/b/e6/be638c55-33d3-5a69-802a-ca6278ca815b/673e9b6f92adf.image.jpg?crop=1257%2C710%2C316%2C38&amp;resize=300%2C169&amp;order=crop%2Cresize" length="384766" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LSU could be down two key offensive linemen vs. Vanderbilt. Here are the details.</title>
+            <description>LSU could be down two starting offensive linemen Saturday when it faces Vanderbilt in Tiger Stadium.</description>
+            <pubDate>Wed, 20 Nov 2024 19:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/00336c20-935e-5222-a5b4-a15b86986713</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-garrett-dellinger-injury-brian-kelly/article_00336c20-935e-5222-a5b4-a15b86986713.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/4/5b/45b37bdb-74a4-5889-bfab-135614c7c4cd/66c12000e0fe6.image.jpg?crop=1488%2C839%2C44%2C25&amp;resize=300%2C169&amp;order=crop%2Cresize" length="267309" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LSU gymnastics TV assignments, meet start times have been announced for the 2025 season</title>
+            <description>Reigning NCAA champion LSU will be featured on national television seven times during the 2025 gymnastics season, the Southeastern Conference announced Wednesday.</description>
+            <pubDate>Wed, 20 Nov 2024 17:25:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/26b30a48-073d-5289-9dd4-f920d4d794a4</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-gymnastics-ncaa-champion-2025-tv-network-meet-times/article_26b30a48-073d-5289-9dd4-f920d4d794a4.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/4f/24feb853-654b-53a2-8112-7e34d7218136/6624a2517eb58.image.jpg?resize=300%2C219" length="297711" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Showdown set in Louisiana Senate on Jeff Landry's plan to raise sales tax by 1-cent</title>
+            <description>Jeff Landry ran to be Louisiana’s top elected official in 2023 as the Republican candidate who would best undo the eight-year legacy of Gov. John Bel Edwards, a Democrat.</description>
+            <pubDate>Wed, 20 Nov 2024 17:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/bb6c5111-8f3d-5306-88ab-c023d188e922</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/jeff-landry-wants-to-raise-the-state-sales-tax-by-1-cent/article_bb6c5111-8f3d-5306-88ab-c023d188e922.html</link>
+            <dc:creator>BY TYLER BRIDGES | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/0c/00cacf05-cc8c-5d15-bda2-4ad3be2db561/672bf40c05a0f.image.jpg?resize=300%2C210" length="539717" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Breaking down LSU guard Vyctorius Miller’s sharp performance vs. Charleston Southern</title>
+            <description>Vyctorius Miller’s slender frame belies his willingness to be physical.</description>
+            <pubDate>Wed, 20 Nov 2024 17:03:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/4eaeb7f5-4118-5cf9-9364-b1ed6f2c357d</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/breaking-down-lsu-guard-vyctorius-miller-s-sharp-performance-vs-charleston-southern/article_4eaeb7f5-4118-5cf9-9364-b1ed6f2c357d.html</link>
+            <dc:creator>BY TOYLOY BROWN III | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/ba/dbab270e-ea1d-56e7-bc65-0d387e1cbd4e/673d4b3ad990f.image.jpg?crop=1226%2C690%2C28%2C79&amp;resize=300%2C169&amp;order=crop%2Cresize" length="264766" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Scott Rabalais: Major staff decisions could be ahead for LSU's Brian Kelly once again</title>
+            <description>As Brian Kelly’s third regular season at LSU nears its conclusion, the head coach faces the prospect of a third straight postseason marked by major coaching staff changes.</description>
+            <pubDate>Wed, 20 Nov 2024 16:33:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/39e0ba22-3f05-5b2e-a499-8c8ac5538d8b</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-brian-kelly-joe-sloan-cortez-hankton-matt-house-scott-rabalais/article_39e0ba22-3f05-5b2e-a499-8c8ac5538d8b.html</link>
+            <dc:creator>BY SCOTT RABALAIS | Sports columnist</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/d1/dd165f90-517b-5b42-9b08-b9c7dc927186/671dc7fe994fd.image.jpg?crop=1181%2C664%2C249%2C0&amp;resize=300%2C169&amp;order=crop%2Cresize" length="273555" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>House speaker Mike Johnson steps into transgender bathroom controversy in Congress</title>
+            <description>WASHINGTON – Facing a conservative backlash surrounding how to handle the first transgender member elected to Congress, House Speaker Mike Johnson on Wednesday established a new bathroom policy on Capitol Hill.</description>
+            <pubDate>Wed, 20 Nov 2024 16:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/bf339df4-6018-5134-96ca-0a2e36b5439e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/mike-johnson-establishes-bathroom-rules-at-the-us-capitol/article_bf339df4-6018-5134-96ca-0a2e36b5439e.html</link>
+            <dc:creator>BY MARK BALLARD | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/5f/65f94c14-a55c-5817-97e3-88029941b411/673e6691ea09b.image.jpg?resize=300%2C200" length="216614" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Is Jeff Landry's pitch to streamline government similar to Donald Trump and Elon Musk's 'DOGE'?</title>
+            <description>Landry wants state lawmakers to help him create a new “Fiscal Responsibility Program” aimed at government efficiency. Some think its inspired by DOGE.</description>
+            <pubDate>Wed, 20 Nov 2024 15:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/01b37c63-8d9f-5257-859e-74f2edf4a23d</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/jeff-landry-fiscal-responsibility-program-doge/article_01b37c63-8d9f-5257-859e-74f2edf4a23d.html</link>
+            <dc:creator>BY ALYSE PFEIL | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/68/d68365cf-a2f8-598c-a1c9-6f4054edfc50/672e7017247f9.image.jpg?crop=1445%2C812%2C5%2C39&amp;resize=300%2C169&amp;order=crop%2Cresize" length="421390" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Rep. Julia Letlow joins influential House Steering Committee, boosting Louisiana's power on it</title>
+            <description>WASHINGTON – Louisiana’s influence in the U.S. House got a boost Wednesday when Rep. Julia Letlow was elected to the Republican’s Steering Committee.</description>
+            <pubDate>Wed, 20 Nov 2024 14:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/be2dd4e9-ab53-5973-a7cf-c8ff8f6822cd</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/julia-letlow-named-to-important-house-steering-committee/article_be2dd4e9-ab53-5973-a7cf-c8ff8f6822cd.html</link>
+            <dc:creator>BY MARK BALLARD | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/2b/22bc9658-a6a9-5743-abc3-94e5578c286a/672becfa83237.image.jpg?resize=300%2C200" length="283825" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Mitch Landrieu says he's not interested in chairing national Democratic Party</title>
+            <description>WASHINGTON — Former New Orleans Mayor Mitch Landrieu isn’t interested in running for chair of the Democratic Party, he told HuffPost, a progressive news site based in New York.</description>
+            <pubDate>Wed, 20 Nov 2024 14:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/4481027e-bf36-51a0-af46-a293872cea87</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/mitch-landrieu-not-interested-in-chairing-democratic-party/article_4481027e-bf36-51a0-af46-a293872cea87.html</link>
+            <dc:creator>BY MARK BALLARD | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/b/48/b488936e-41d3-5f3d-add9-ae3df7aadcda/66c5282b31a09.image.jpg?resize=300%2C200" length="177109" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Louisiana law mandating Ten Commandments in schools will stay paused during appeal, court says</title>
+            <description>Louisiana schools won’t be required to post the Ten Commandments by New Year’s Day after a federal appeals court on Wednesday ordered that the law mandating the displays remain blocked while litigation continues.</description>
+            <pubDate>Wed, 20 Nov 2024 11:48:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/0b3450cd-e6ad-551b-8c62-1ca5b989b156</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/education/court-extends-hold-on-louisiana-schools-ten-commandments-law/article_0b3450cd-e6ad-551b-8c62-1ca5b989b156.html</link>
+            <dc:creator>By PATRICK WALL | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/4/58/458dd976-d33c-5413-90bd-9d296c14abbe/6716f4a9bfd04.image.jpg?resize=300%2C225" length="389807" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>The post office in this Louisiana town will be named after the late Luke Letlow</title>
+            <description>WASHINGTON – The post office in the northeast Louisiana community of Rayville will be named after Luke Letlow, the late husband of U.S. Rep. Julia Letlow.</description>
+            <pubDate>Wed, 20 Nov 2024 10:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/7d0dce8d-262c-5db6-941a-fc3fcfa41c34</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/rayville-post-office-to-be-renamed-after-luke-letlow/article_7d0dce8d-262c-5db6-941a-fc3fcfa41c34.html</link>
+            <dc:creator>BY MARK BALLARD | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/da/0dac8714-97df-50af-abef-bdb7a0decfc1/673e15e6896b7.image.jpg?resize=300%2C349" length="130655" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Louisiana lawmakers move ahead with plan to phase out a business tax, but give locals options</title>
+            <description>A Senate committee Tuesday advanced a plan that incentivizes parishes to stop collecting a valuable tax on business inventory — but also buys time to find revenue elsewhere.</description>
+            <pubDate>Wed, 20 Nov 2024 06:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/3a36dd47-6689-59dd-a216-e1db1034cc84</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/legislature/senate-tax-committee-advances-business-inventory-tax-buyout-plan/article_3a36dd47-6689-59dd-a216-e1db1034cc84.html</link>
+            <dc:creator>BY ALYSE PFEIL | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/50/c504ad31-5ac1-5c9c-ab8a-66612b8909d1/648508b8d877c.image.jpg?resize=300%2C213" length="318336" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Will LSU make staff changes again this offseason? Answering your questions about the Tigers.</title>
+            <description>After three straight losses, LSU has a lot to work on before it finishes the regular season at home against Vanderbilt and Oklahoma.</description>
+            <pubDate>Wed, 20 Nov 2024 05:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/89594bb3-337e-582c-bd5d-206839edc9c1</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-football-offense-brian-kelly/article_89594bb3-337e-582c-bd5d-206839edc9c1.html</link>
+            <dc:creator>BY WILSON ALEXANDER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/9/e2/9e230b2a-8367-549c-b927-1390b79b0e39/66ad4ef834fd2.image.jpg?crop=785%2C442%2C503%2C66&amp;resize=300%2C169&amp;order=crop%2Cresize" length="326723" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>How can LSU beat Vanderbilt to avoid a four-game losing streak? Start with these keys.</title>
+            <description>Each time LSU football has fallen into a three-game losing streak this century, it’s responded by winning the next game.</description>
+            <pubDate>Wed, 20 Nov 2024 05:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/4b24f5b1-f69e-5910-b101-cb56ea450c79</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-vanderbilt-brian-kelly/article_4b24f5b1-f69e-5910-b101-cb56ea450c79.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/b8/2b8bc6ce-d3b5-501f-8151-8ff1315b6a06/67393bd11a206.image.jpg?crop=1252%2C708%2C14%2C104&amp;resize=300%2C170&amp;order=crop%2Cresize" length="453455" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Will Campbell sounds off on LSU's losing streak, run game and finishing the season strong</title>
+            <description>Until last weekend, Will Campbell had never lost three straight games in his life, not even when this now 6-foot-6, 323-pound left tackle was a pee wee quarterback.</description>
+            <pubDate>Wed, 20 Nov 2024 05:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/ab53217b-0536-53f7-8370-0fae3d985134</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-football-losing-streak-will-campbell/article_ab53217b-0536-53f7-8370-0fae3d985134.html</link>
+            <dc:creator>BY WILSON ALEXANDER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/9/55/95508747-c95f-5499-8cc1-0a7ece0637ea/6714b790be1cf.image.jpg?resize=300%2C243" length="350004" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Indiana-Ohio State, BYU-Arizona State among top 5 games to watch in Week 13</title>
+            <description>Week 13 of the college football season has arrived, and with it are plenty of matchups with massive implications as it pertains to the College Football Playoff.</description>
+            <pubDate>Wed, 20 Nov 2024 04:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/132ec128-2d88-5c46-82b5-0388fbfce805</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/betting/college-football-games-colorado-deion-sanders-ohio-state-indiana/article_132ec128-2d88-5c46-82b5-0388fbfce805.html</link>
+            <dc:creator>BY KOKI RILEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/6/10/6107f98c-5ed5-58cc-b828-60e0e441a6d6/65568db06a486.image.jpg?crop=1552%2C875%2C159%2C34&amp;resize=300%2C169&amp;order=crop%2Cresize" length="256284" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Can LSU slow down Vanderbilt QB Diego Pavia on the ground? Brian Kelly preaches discipline.</title>
+            <description>Marcel Reed found the scab, but Jalen Milroe ripped it off.</description>
+            <pubDate>Wed, 20 Nov 2024 04:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/f4137223-7bdd-5fa9-b2ce-13bbde438663</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-football-diego-pavia-vanderbilt-brian-kelly-clark-lea/article_f4137223-7bdd-5fa9-b2ce-13bbde438663.html</link>
+            <dc:creator>BY KOKI RILEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/c3/7c3c7c61-b1b4-5904-832f-ea3c39765940/671d97ac49563.image.jpg?crop=1412%2C795%2C6%2C59&amp;resize=300%2C169&amp;order=crop%2Cresize" length="433128" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Candidates pressed on issues and lay out visions at Baton Rouge mayor-president debate</title>
+            <description>With less than three weeks remaining until Baton Rouge will select its mayor-president for the next four years, the two runoff candidates met Tuesday night for an in-studio debate hosted by WAFB.</description>
+            <pubDate>Tue, 19 Nov 2024 19:31:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/22ce1fbe-a6df-11ef-a228-77e51b682bd5</guid>
+            <link>https://www.theadvocate.com/baton_rouge/baton-rouge-mayor-candidates-pressed-on-issues-at-debate/article_22ce1fbe-a6df-11ef-a228-77e51b682bd5.html</link>
+            <dc:creator>BY PATRICK SLOAN-TURNER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/b4/0b431e61-9623-5d25-b362-34165073999f/673d374c1fd44.image.jpg?resize=300%2C200" length="347905" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>LSU men's basketball beats Charleston Southern thanks to freshman Vyctorius Miller's heroics</title>
+            <description>Vyctorius Miller was brimming with confidence.</description>
+            <pubDate>Tue, 19 Nov 2024 18:10:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/c4c7e055-aeb7-5d61-8fe5-7363fcba396e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-mens-basketballs-beats-charleston-southern-at-home/article_c4c7e055-aeb7-5d61-8fe5-7363fcba396e.html</link>
+            <dc:creator>BY TOYLOY BROWN III | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/7/fe/7fe813ab-ef58-556d-9800-9792ced57952/673d531497b1b.image.jpg?resize=300%2C230" length="258104" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Jeff Landry and senators focus on sales tax increase as his tax plan advances</title>
+            <description>It’s simple math.</description>
+            <pubDate>Tue, 19 Nov 2024 17:15:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/fcc2e807-6e5a-5ba9-a770-17b20ae6d520</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/jeff-landry-and-state-senators-focus-on-sales-tax-increase/article_fcc2e807-6e5a-5ba9-a770-17b20ae6d520.html</link>
+            <dc:creator>BY TYLER BRIDGES | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/31/031d08e9-54d2-574d-b834-b87ed17f3335/673d1d354e3e1.image.jpg?resize=300%2C265" length="405029" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Millions of dollars are at stake for Louisiana and other Gulf states in this bill in Congress</title>
+            <description>WASHINGTON — A U.S. Senate committee Tuesday advanced legislation to increase the money generated by offshore energy for Louisiana coastal restoration to the tune of millions of dollars annually.</description>
+            <pubDate>Tue, 19 Nov 2024 16:45:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/305743ba-9bfa-5bec-823b-8f1d566e5835</guid>
+            <link>https://www.theadvocate.com/baton_rouge/news/politics/bill-again-tries-to-corral-billions-in-offshore-royalties/article_305743ba-9bfa-5bec-823b-8f1d566e5835.html</link>
+            <dc:creator>BY MARK BALLARD | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/1/5f/15fc54e4-836e-59f2-973c-7686a9b7707a/673d175269a80.image.jpg?resize=300%2C200" length="400471" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Why bring Sa'Myah Smith off the bench for LSU's win over Troy? Let Kim Mulkey explain.</title>
+            <description>Kim Mulkey thinks Sa’Myah Smith can have a greater impact on the LSU women’s basketball team’s games. But first, she needs to — as the Tigers coach recently articulated — quit thinking about her knees.</description>
+            <pubDate>Tue, 19 Nov 2024 13:00:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/4b096ac0-9e57-5598-a01b-bf7a61f85349</guid>
+            <link>https://www.theadvocate.com/baton_rouge/sports/lsu/lsu-kim-mulkey-samyah-smith-womens-basketball/article_4b096ac0-9e57-5598-a01b-bf7a61f85349.html</link>
+            <dc:creator>By REED DARCEY | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/05/205c4cc4-10f9-528e-886a-0ba3663ded5e/673c35c31bddc.image.jpg?crop=1340%2C755%2C163%2C53&amp;resize=300%2C169&amp;order=crop%2Cresize" length="275247" type="image/jpeg" />
+        </item>
+
+        <item>
+            <title>Why Baton Rouge's rundown jail is costing taxpayers millions — and there's no easy fix</title>
+            <description>During a recent tour of the East Baton Rouge Parish Prison, the warden pointed out a decaying spot on the ceiling.</description>
+            <pubDate>Tue, 19 Nov 2024 10:30:00 -0600</pubDate>
+            <guid isPermaLink="false">http://www.theadvocate.com/tncms/asset/editorial/5b9209b0-a369-11ef-a535-2ff67d4bea9e</guid>
+            <link>https://www.theadvocate.com/baton_rouge/costs-mount-to-keep-baton-rouges-decaying-jail-operational/article_5b9209b0-a369-11ef-a535-2ff67d4bea9e.html</link>
+            <dc:creator>BY PATRICK SLOAN-TURNER | Staff writer</dc:creator>
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/0/1a/01abcb70-e44e-506a-8083-42b13d378f22/673c37bd69117.image.jpg?resize=300%2C222" length="355995" type="image/jpeg" />
+        </item>
+
+    </channel>
+</rss>
