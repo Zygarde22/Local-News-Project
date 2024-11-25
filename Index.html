@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Local New Orleans News</title>
     <link rel="stylesheet" href="Index.css">
-    <link rel="stylesheet" href="Common.css"
+    <link rel="stylesheet" href="Common.css">
 </head>
 <body>
     <!-- Header Section -->
     <header>
         <h1>Welcome to Local New Orleans News</h1>
-        <nav>
+        <nav aria-label="Primary">
             <ul>
                 <li><a href="sports.html">Saints Scores & Plays</a></li>
                 <li><a href="stocks.html">Stock Prices</a></li>
@@ -28,12 +28,17 @@
 
         <section id="news-feed">
             <h2>Latest News from NOLA.com</h2>
-            <ul id="rss-feed">
-                <!-- RSS feed content will be dynamically inserted here -->
+            <ul>
+                <li><h3>Scrim delights cat lover with unexpected cameo in door cam footage — watch here</h3></li>
+                <li><h3>LaPlace man shoots, kills uncle during knife attack, sheriff's office says</h3></li>
+                <li><h3>Ponchatoula man dies in Laplace traffic crash, police say</h3></li>
             </ul>
+            <h3>
+                <a href="https://www.nola.com" target="_blank" rel="noopener">
+                    More News at NOLA.com
+                </a>
+            </h3>
         </section>
     </main>
-
-    <script src="rss-feed.js"></script>
 </body>
 </html>
